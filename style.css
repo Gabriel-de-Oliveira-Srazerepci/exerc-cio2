@@ -35,6 +35,7 @@ header{
     padding: 100px;
     background-color: whitesmoke;
     width: 30px;
+    flex-direction: column;
 }
 .card2{
     padding: 20px;
