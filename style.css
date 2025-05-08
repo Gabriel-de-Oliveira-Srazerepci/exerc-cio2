@@ -25,7 +25,7 @@ header{
     margin: auto;
     border-radius: 50px
 }
-.card{
+.card.container{
     background-color: gray;
     padding: 10px;
 }
