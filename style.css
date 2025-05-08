@@ -25,3 +25,7 @@ header{
     margin: auto;
     border-radius: 50px
 }
+.card{
+    background-color: gray;
+    padding: 10px;
+}
